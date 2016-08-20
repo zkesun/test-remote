@@ -1,0 +1,12 @@
+  git clone https://github.com/reedmi/drp.git
+  git clone git@code.csdn.net:shan9liang/tgb.git
+  git clone git@code.csdn.net:shan9liang/tgb.git
+  git clone https@code.csdn.net:shan9liang/tgb.git
+  git clone https://code.csdn.net/shan9liang/tgb.git
+
+  git init
+  git add README.md
+  git commit -m "first commit"
+  git branch -a
+  git remote add origin https://github.com/zkesun/test-remote.git
+  git push -u origin master
